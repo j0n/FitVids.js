@@ -1,0 +1,18 @@
+{
+  "name": "jquery.fitvids",
+  "version": "1.0.3",
+  "main": "./jquery.fitvids.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/j0n/FitVids.js",
+  "authors": [
+  ],
+  "license": "MIT",
+  "private": true
+}
