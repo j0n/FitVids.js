@@ -8,6 +8,5 @@
     "components"
   ],
   "dependencies": {
-    "jquery": ">= 1.7.0"
   }
 }
